@@ -1,16 +1,30 @@
-## Hi there 👋
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TooCodeSavvy&show_icons=true&theme=radical)  
 
-<!--
-**TooCodeSavvy/TooCodeSavvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👨‍💻 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=TooCodeSavvy&color=blue)  
+
+Hi there 👋 I'm a software developer specializing in web development.  
+
+---
+
+## 🚀 My Skill Set  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+
+---
+
+### :fire: My Stats :
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TooCodeSavvy&show_icons=true&theme=radical)  
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TooCodeSavvy)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TooCodeSavvy)](https://github.com/anuraghazra/github-readme-stats)
+
