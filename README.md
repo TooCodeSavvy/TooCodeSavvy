@@ -1,11 +1,8 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TooCodeSavvy&show_icons=true&theme=radical)  
----
-
 # 👨‍💻 About Me  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TooCodeSavvy&color=blue)  
 
-Hi there 👋! I'm a software developer specializing in web development with experience in PHP, JavaScript, and Python. I focus on building efficient, scalable applications. I'm passionate about developing high-quality software and delivering solutions that make a real difference. My work spans various domains, from backend to frontend, ensuring that I create seamless and efficient web applications.
+Hi there 👋! I'm a software developer specializing in web development with experience in PHP and JavaScript. I focus on building efficient, scalable applications. I'm passionate about developing high-quality software and delivering solutions that make a real difference. My work spans various domains, from backend to frontend, ensuring that I create seamless and efficient web applications.
 
 ---
 
