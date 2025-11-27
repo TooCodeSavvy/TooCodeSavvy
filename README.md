@@ -1,4 +1,4 @@
-### :fire: My Stats : 
+### My Stats : 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TooCodeSavvy)](https://git.io/streak-stats)
 
